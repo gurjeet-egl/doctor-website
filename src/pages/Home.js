@@ -7,7 +7,7 @@ function Home() {
       {/* Hero Section */}
       <section className="bg-light text-center p-5">
         <div className="container">
-          <h1 className="fw-bold">Dr. Amarjeet Kaur Bhullar</h1>
+          <h1 className="fw-bold">Dr. Surjeet Kaur Bhullar</h1>
           <p className="lead">Expert Gynecologist & Women's Health Specialist</p>
           <button className="btn btn-primary">Book Appointment</button>
         </div>
